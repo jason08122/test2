@@ -14,5 +14,5 @@ function getmsg(){
 
 git add .
 getmsg
-git push origin master
+git push origin main
 echo "git push success... !"
